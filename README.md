@@ -100,29 +100,26 @@ Adani Group (July 2025): Announced AI-powered 1,000-bed hospitals in Mumbai and 
 4. Our Framework — The AI Value Leakage Model
 Rather than applying a standard MBA framework (SWOT, Porter's, McKinsey 7S), we built one specific to this problem.
 The AI Value Leakage Model — the premise being that XYZ is not failing to generate AI value. It is leaking it through three identifiable gaps. Plug the leaks, and the value already paid for becomes accessible.
-┌──────────────────────────────────────────────────────────────┐
-│                  AI VALUE LEAKAGE MODEL                      │
-│                                                              │
-│  $50M invested                                               │
-│       │                                                      │
-│       ▼                                                      │
-│  [LEAKAGE 01: Integration Failure]                           │
-│   AI tools outside EHR → clinicians avoid them              │
-│   Fix: Deep EHR integration                                  │
-│       │                                                      │
-│       ▼                                                      │
-│  [LEAKAGE 02: Adoption Collapse]                             │
-│   38% trust, high overrides → investment wasted             │
-│   Fix: AI Academy + clinical co-design                       │
-│       │                                                      │
-│       ▼                                                      │
-│  [LEAKAGE 03: Wrong Prioritisation]                          │
-│   Budget spread thin, slow-payback areas prioritised         │
-│   Fix: Focus on top 2 fast-ROI use cases first               │
-│       │                                                      │
-│       ▼                                                      │
-│  $25M captured  |  $25M still leaking                        │
-└──────────────────────────────────────────────────────────────┘
+
+                  AI VALUE LEAKAGE MODEL                      
+
+💡 Our Framework — The AI Value Leakage Model
+We built a custom framework for this problem. The core idea: XYZ is not failing to generate AI value — it is leaking it through three identifiable gaps.
+
+Leakage 01 — Integration Failure
+Problem: AI tools ran outside doctors' primary systems, forcing platform switching that clinicians rationally avoided.
+Fix: Deep EHR integration — make AI invisible inside the existing workflow.
+
+Leakage 02 — Adoption Collapse
+Problem: Only 38% of staff trust AI. High override rates mean the $50M investment sits idle.
+Fix: AI Academy + clinical co-design — rebuild trust through training and involvement.
+
+Leakage 03 — Wrong Prioritisation
+Problem: Budget spread across all AI domains at once. Slow-payback areas funded before fast ones.
+Fix: Focus entirely on the top 2 fast-ROI use cases first.
+
+The result: $25M captured. $25M still leaking — waiting to be recovered.
+Our recommendation: Stop buying new AI. Start recovering the value from the AI you already own.
 Why a custom framework:
 Standard frameworks are taught to every MBA student. Judges see them in every presentation. A framework built for the specific problem — using the specific numbers from this case — demonstrates analytical thinking rather than template application. The "leakage" framing also shifts the conversation from "AI failed" to "value can be recovered" — which made our solution feel achievable, not aspirational.
 
